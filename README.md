@@ -1,6 +1,5 @@
-# NizhalVizhi-Ossome
+NizhalVizhi
 Advanced Multi-Modal Privacy & Surveillance Detection Engine
-AIML Track Submission | 2026 Hackathon
 NIZHAL VIZHI is a suite designed to identify hidden surveillance threats through Sensor Fusion. By combining Deep Learning, Heuristic Optical Analysis, and RF Signal Intelligence, it provides a 360-degree privacy audit of any environment.
 
 @Technical Architecture
@@ -32,4 +31,3 @@ pip install streamlit opencv-python-headless ultralytics numpy
 Ensure your camera is connected and run the application,
 streamlit run app.py by showing the area for all 360degree with a light source falling o the area.
 
-Built for the 2026 Hackathon AIML Track.
